@@ -592,6 +592,7 @@ p, h1, h2, h3, h4, h5, h6 {
         flex-direction: column;
         gap: 20px;
         & textarea {
+            width: 100%;
             font-size: 15px;
             font-weight: 400;
             padding: 13px 15px;
@@ -623,6 +624,7 @@ p, h1, h2, h3, h4, h5, h6 {
             grid-template-columns: 1fr 1fr;
             gap: 15px;
             & input, select {
+                width: 100%;
                 font-size: 15px;
                 font-weight: 400;
                 padding: 13px 15px;
