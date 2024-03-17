@@ -1012,6 +1012,7 @@ p, h1, h2, h3, h4, h5, h6 {
 
 .footer {
     padding: 32px 0;
+    text-align: center;
     > div {
         display: flex;
         justify-content: space-between;
@@ -1328,6 +1329,28 @@ p, h1, h2, h3, h4, h5, h6 {
                 > p {
                     font-size: 14px;
                 }
+            }
+        }
+    }
+
+    .footer-info {
+        > div {
+            > div {
+                > form {
+                    flex-direction: column;
+                    width: 100%;
+                    > input, button {
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+
+    .order-now {
+        > div {
+            > div {
+                height: 100px;
             }
         }
     }
