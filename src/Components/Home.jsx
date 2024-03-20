@@ -198,10 +198,10 @@ export default function Home() {
                     </ul>
 
                     {order === 1 && 
-                    <div className="menu-container fade-in">
+                    <div className="menu-container">
 
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-left" >
 
                             <div className="item-img">
                                 <img src="./img/foods/01.jpg" alt="" />
@@ -230,7 +230,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-right">
 
                             <div className="item-img">
                                 <img src="./img/foods/02.jpg" alt="" />
@@ -259,7 +259,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-left" >
 
                             <div className="item-img">
                                 <img src="./img/foods/03.jpg" alt="" />
@@ -288,7 +288,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-right">
 
                             <div className="item-img">
                                 <img src="./img/foods/04.jpg" alt="" />
@@ -317,7 +317,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-left">
 
                             <div className="item-img">
                                 <img src="./img/foods/05.jpg" alt="" />
@@ -346,7 +346,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-right">
 
                             <div className="item-img">
                                 <img src="./img/foods/06.jpg" alt="" />
@@ -379,9 +379,9 @@ export default function Home() {
                     }
 
                     {order === 2 && 
-                    <div className="menu-container fade-in">
+                    <div className="menu-container">
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-left">
 
                             <div className="item-img">
                                 <img src="./img/foods/09.jpg" alt="" />
@@ -410,7 +410,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-right">
 
                             <div className="item-img">
                                 <img src="./img/foods/10.jpg" alt="" />
@@ -439,7 +439,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-left">
 
                             <div className="item-img">
                                 <img src="./img/foods/11.jpg" alt="" />
@@ -468,7 +468,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-right">
 
                             <div className="item-img">
                                 <img src="./img/foods/12.jpg" alt="" />
@@ -501,9 +501,9 @@ export default function Home() {
                     }
 
                     {order === 3 && 
-                    <div className="menu-container fade-in">
+                    <div className="menu-container">
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-left">
 
                             <div className="item-img">
                                 <img src="./img/foods/13.jpg" alt="" />
@@ -532,7 +532,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-right">
 
                             <div className="item-img">
                                 <img src="./img/foods/14.jpg" alt="" />
@@ -561,7 +561,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-left">
 
                             <div className="item-img">
                                 <img src="./img/foods/15.jpg" alt="" />
@@ -590,7 +590,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-right">
 
                             <div className="item-img">
                                 <img src="./img/foods/16.jpg" alt="" />
@@ -619,7 +619,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-left">
 
                             <div className="item-img">
                                 <img src="./img/foods/17.jpg" alt="" />
@@ -648,7 +648,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-right">
 
                             <div className="item-img">
                                 <img src="./img/foods/18.jpg" alt="" />
@@ -681,9 +681,9 @@ export default function Home() {
                     }
 
                     {order === 4 && 
-                    <div className="menu-container fade-in">
+                    <div className="menu-container">
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-left">
 
                             <div className="item-img">
                                 <img src="./img/foods/19.jpg" alt="" />
@@ -712,7 +712,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-right">
 
                             <div className="item-img">
                                 <img src="./img/foods/01.jpg" alt="" />
@@ -741,7 +741,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-left">
 
                             <div className="item-img">
                                 <img src="./img/foods/20.jpg" alt="" />
@@ -770,7 +770,7 @@ export default function Home() {
 
                         </div>
 
-                        <div className="menu-container-item">
+                        <div className="menu-container-item slide-in-right">
 
                             <div className="item-img">
                                 <img src="./img/foods/02.jpg" alt="" />
