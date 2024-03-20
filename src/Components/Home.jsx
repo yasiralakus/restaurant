@@ -198,7 +198,7 @@ export default function Home() {
                     </ul>
 
                     {order === 1 && 
-                    <div className="menu-container">
+                    <div className="menu-container fade-in">
 
 
                         <div className="menu-container-item">
@@ -379,7 +379,7 @@ export default function Home() {
                     }
 
                     {order === 2 && 
-                    <div className="menu-container">
+                    <div className="menu-container fade-in">
 
                         <div className="menu-container-item">
 
@@ -501,7 +501,7 @@ export default function Home() {
                     }
 
                     {order === 3 && 
-                    <div className="menu-container">
+                    <div className="menu-container fade-in">
 
                         <div className="menu-container-item">
 
@@ -681,7 +681,7 @@ export default function Home() {
                     }
 
                     {order === 4 && 
-                    <div className="menu-container">
+                    <div className="menu-container fade-in">
 
                         <div className="menu-container-item">
 
