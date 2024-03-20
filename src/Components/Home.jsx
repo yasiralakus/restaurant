@@ -1112,7 +1112,7 @@ export default function Home() {
 
                     <img src="./img/special-today-logo.png" alt="" />
                     <p>Müşteri Düşünceleri</p>
-                    <h3>İnsanlar Bizim Hakkımızda Ne Soylüyorlar?</h3>
+                    <h3>İnsanlar Bizim Hakkımızda Ne Söylüyorlar?</h3>
 
                     <div className="slider-container">
                         <Slider />
