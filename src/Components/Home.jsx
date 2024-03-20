@@ -984,7 +984,7 @@ export default function Home() {
 
                             <div className="chef-item-bottom">
 
-                                <h3>Wilfred Zaha</h3>
+                                <h3>Monica Bellucci</h3>
                                 <p>Founder & CEO</p>
                                 <hr />
                                 <p style={{color: '#696969'}}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga molestias exercitationem similique quidem dolores.</p>
@@ -995,7 +995,7 @@ export default function Home() {
                                     </li>
                                     <li>
                                         <i class="fa-solid fa-envelope"></i>
-                                        <p>wilfredzaha@gmail.com</p>
+                                        <p>bellucci@gmail.com</p>
                                     </li>
                                 </ul>
 
@@ -1111,8 +1111,8 @@ export default function Home() {
                 <div className="container">
 
                     <img src="./img/special-today-logo.png" alt="" />
-                    <p>Blog Yazılarımız</p>
-                    <h3>En Son Haberler ve Makaleler</h3>
+                    <p>Müşteri Düşünceleri</p>
+                    <h3>İnsanlar Bizim Hakkımızda Ne Soylüyorlar?</h3>
 
                     <div className="slider-container">
                         <Slider />

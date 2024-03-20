@@ -157,8 +157,7 @@ p, h1, h2, h3, h4, h5, h6 {
         & ul {
             position: absolute;
             bottom: -161px;
-            opacity: 0;
-            transition: all .4s;
+            display: none;
             z-index: 20;
 
             & li {
@@ -192,7 +191,7 @@ p, h1, h2, h3, h4, h5, h6 {
     }
 
     & li:hover > ul {
-        opacity: 1 !important;
+        display: block !important;
     }
     
 }
@@ -676,6 +675,11 @@ p, h1, h2, h3, h4, h5, h6 {
     width: 370px;
     box-shadow: 0 0 10px rgba(136, 136, 136, 0.1);
     background-color: #fff;
+    transition: all .3s;
+}
+
+.chef-item:hover {
+    transform: translateY(-10px);
 }
 
 .chef-item-top {
